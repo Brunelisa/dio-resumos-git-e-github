@@ -12,3 +12,5 @@ Repositório para armazenar resumos sobre o Git e Github do curso de Versionamen
 |-------|---------|
 |Gravando Alterações no Rep Local | [Resumos]()|
 
+## 🔍 Referências
+- [Digital Innovation One](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/dd17c56e-2327-493c-942a-358a49a26549?back=/track/code-update-tqi-backend-com-kotlin-e-java&tab=undefined&moduleId=undefined)
